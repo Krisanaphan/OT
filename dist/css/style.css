@@ -1,0 +1,23 @@
+<style type="text/css">
+  a {
+    color: #fbbbdd;
+  }
+  a:hover {
+    color: #fff; 
+  }
+  .nav-pills .nav-link {
+    color: #fbbbdd;
+  }
+  .nav-pills .nav-link:not(.active):hover {
+    color: #fff;
+  }
+  .card-header {
+    background-color: rgba(232, 93, 158, 0.5);
+  }
+  .btn-in {
+    background-color: rgba(232, 93, 158, 0.5);
+  }
+  .btn-in:hover {
+    background-color: #fbbbdd;
+  }
+</style>
